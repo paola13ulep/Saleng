@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="1.0.2b.2023-12-20.CD-1901-0-dbdbe34c" icon="Search.png" search="SALENG">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="SALENG128DB_2a6ca8490e92959d4dde182c6a88549e_16" modelIndex="6104" path="C:/Users/Asus/Documents/Fritzing/parts/contrib/SALENG128DB_2a6ca8490e92959d4dde182c6a88549e_16.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SALENG UNO MK2_5f1f43e7a4480932b1671e7dbe62112d_37" modelIndex="6105" path="C:/Users/Asus/Documents/Fritzing/parts/user/SALENG UNO MK2_5f1f43e7a4480932b1671e7dbe62112d_37.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
